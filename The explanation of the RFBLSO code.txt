@@ -1,0 +1,5 @@
+1. This example provides the code for RFBLSO.
+2. This example can be run on MATLAB version 2022.
+3. Example data is provided, namely demodata.mat.
+4. After opening the RFBLSO.m file, click the run button to execute the code.
+5. If there are any further issues, please contact zheng853796151@qq.com.
