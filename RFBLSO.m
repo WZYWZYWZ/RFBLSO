@@ -24,7 +24,7 @@ train_y = Y;
 test_x = X;
 test_y = Y;
 %% BLS
-C1 = 2^-30;
+C1 = exp(-32:0.1:-25); % The range of regularization parameter selection.
 s = .8;              %----s: the shrinkage parameter for enhancement nodes
 best = 1;
 result = [];
